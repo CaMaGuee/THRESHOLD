@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-THRESHOLD-1.0";
 const contentToCache = [
     "Build/Unity_Build.loader.js",
-    "Build/Unity_Build.framework.js.br",
-    "Build/Unity_Build.data.br",
-    "Build/Unity_Build.wasm.br",
+    "Build/Unity_Build.framework.js",
+    "Build/Unity_Build.data",
+    "Build/Unity_Build.wasm",
     "TemplateData/style.css"
 
 ];
